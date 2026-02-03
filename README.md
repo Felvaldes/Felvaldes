@@ -1,43 +1,47 @@
-# 👋 Hola, soy Felipe Valdés
+# 👋 Hi, I'm Felipe Valdés
 
-🎓 Estudiante avanzado de Ingeniería en Sistemas de Información  
-📍 UTN Regional Delta | Próximo a comenzar 4° año  
-
----
-
-## 🧑‍💻 Perfil
-Estudiante de Ingeniería en Sistemas con experiencia en desarrollo de aplicaciones web y sistemas backend.  
-He participado en proyectos reales utilizando **Express.js**, **Spring Framework** y **Angular**, trabajando en equipo y utilizando **GitHub** como herramienta de colaboración.
-
-Actualmente busco una **pasantía o posición junior** en el área de sistemas.
+🎓 Advanced Systems Engineering student  
+📍 UTN – Regional Delta | About to start 4th year  
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🧑‍💻 Profile
+Advanced Systems Engineering student with experience in web application and backend system development.  
+I have worked on real-world projects using **Express.js**, **Spring Framework**, and **Angular**, collaborating in teams and using **GitHub** as a version control and collaboration tool.
+
+Currently looking for an **internship or junior position** in the systems / software development area.
+
+---
+
+## 🚀 Featured Projects
 
 ### 🍽️ My Restaurant
-Sistema de gestión y toma de pedidos para restaurantes.
+Restaurant order management system.
 - Backend: Express.js  
 - Frontend: Angular  
-- Base de datos: MySQL  
-- Deploy: Microsoft Azure  
-🔗 https://github.com/Felvaldes/my-restaurant
+- Database: MySQL  
+- Deployment: Microsoft Azure
+
+To view the code, click on the following link.
+🔗 https://github.com/orgs/My-restaurant-FRD/repositories
 
 ---
 
-### 🔁 Sistema de Transacciones (Spring)
-Sistema backend para administración de transacciones.
+### 🔁 Transaction Management System (Spring)
+Backend system for transaction administration.
 - Backend: Spring Framework  
-- Base de datos: PostgreSQL  
-- API REST  
-- Tutoreado por Senior Developer (Salesforce)  
-🔗 https://github.com/Felvaldes/nombre-del-repo
+- Database: PostgreSQL  
+- REST API  
+- Mentored by a Senior Developer (Salesforce)
+
+To view the code, click on the following link.
+🔗 https://github.com/Proyectonico/Backend
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technical Skills
 
-**Lenguajes**
+**Programming Languages**
 - Java, Python, TypeScript, C, Haskell
 - HTML, CSS
 
@@ -46,21 +50,27 @@ Sistema backend para administración de transacciones.
 - Express.js
 - Angular
 
-**Bases de datos**
+**Databases**
 - MySQL
 - PostgreSQL
 
-**Herramientas**
-- GitHub, Docker, Postman, Azure
+**Tools & Technologies**
+- GitHub
+- Docker
+- Postman
+- Microsoft Azure
 - REST APIs
 
 ---
 
-## 🌍 Idiomas
-- Inglés B2 – First Certificate in English (FCE)
+## 🌍 Languages
+- English: B2 – First Certificate in English (FCE)
 
 ---
 
-## 🔗 Links
-- 🌐 Portfolio: https://felvaldes.github.io  
-- 💼 LinkedIn: *(agregalo acá)*
+
+## Contact
+- if you want to contact me for any oportunity feel free to send an email to: valdesfeli11@gmail.com
+
+## Thanks for watching, have a nice day.
+
