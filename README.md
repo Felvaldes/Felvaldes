@@ -80,6 +80,8 @@ To view the code, click on the following link.
 
 ---
 
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felvaldes&layout=compact&theme=dark)
+
 
 ## 👥 Contact
 - if you want to contact me for any oportunity, feel free to send an email to: valdesfeli11@gmail.com
