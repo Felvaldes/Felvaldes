@@ -23,7 +23,7 @@ Restaurant order management system.
 - Deployment: Microsoft Azure
 
 To view the code, click on the following link.
-🔗 https://github.com/orgs/My-restaurant-FRD/repositories
+🔗 [View code](https://github.com/orgs/My-restaurant-FRD/repositories)
 
 ---
 
@@ -35,15 +35,20 @@ Backend system for transaction administration.
 - Mentored by a Senior Developer (Salesforce)
 
 To view the code, click on the following link.
-🔗 https://github.com/Proyectonico/Backend
+🔗 [View code](https://github.com/Proyectonico/Backend)
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- Java, Python, TypeScript, C, Haskell
-- HTML, CSS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40"/>
+</p>
 
 **Frameworks**
 - Spring Boot
