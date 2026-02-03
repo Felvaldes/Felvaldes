@@ -80,8 +80,7 @@ To view the code, click on the following link.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felvaldes&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felvaldes&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felvaldes)
 
 
 ## 👥 Contact
