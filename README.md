@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Profile
 Advanced Systems Engineering student with experience in web application and backend system development.  
-I have worked on real-world projects using **Express.js**, **Spring Framework**, **Django** and **Angular**, collaborating in teams and using **GitHub** as a version control and collaboration tool.
+I have worked on real-world projects using **Express.js**, **Spring Framework**, **Django** and **Angular**, collaborating with teams and using **GitHub** as a version control and collaboration tool.
 
 Currently looking for an **internship or junior position** in the systems / software development area.
 
@@ -70,8 +70,8 @@ To view the code, click on the following link.
 ---
 
 
-## Contact
+## 👥 Contact
 - if you want to contact me for any oportunity feel free to send an email to: valdesfeli11@gmail.com
 
-## Thanks for watching, have a nice day.
+# Thanks for watching, have a nice day.
 
