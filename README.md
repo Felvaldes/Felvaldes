@@ -28,7 +28,7 @@ To view the code, click on the following link.
 ---
 
 ### 🔁 Transaction Management System (In progress)
-Backend system for transaction administration.
+Backend system for personal transaction management.
 - Backend: Spring Framework  
 - Database: PostgreSQL  
 - REST API  
@@ -84,5 +84,5 @@ To view the code, click on the following link.
 ## 👥 Contact
 - if you want to contact me for any oportunity, feel free to send an email to: valdesfeli11@gmail.com
 
-# Thanks for watching, have a nice day.
+# Thanks for visiting my profile.
 
