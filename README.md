@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Profile
 Advanced Systems Engineering student with experience in web application and backend system development.  
-I have worked on real-world projects using **Express.js**, **Spring Framework**, and **Angular**, collaborating in teams and using **GitHub** as a version control and collaboration tool.
+I have worked on real-world projects using **Express.js**, **Spring Framework**, **Django** and **Angular**, collaborating in teams and using **GitHub** as a version control and collaboration tool.
 
 Currently looking for an **internship or junior position** in the systems / software development area.
 
@@ -49,6 +49,7 @@ To view the code, click on the following link.
 - Spring Boot
 - Express.js
 - Angular
+- Django
 
 **Databases**
 - MySQL
